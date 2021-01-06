@@ -1,0 +1,9 @@
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\bin\Debug\netstandard2.0\Common.Entities.deps.json
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\bin\Debug\netstandard2.0\Common.Entities.dll
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\bin\Debug\netstandard2.0\Common.Entities.pdb
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\obj\Debug\netstandard2.0\Common.Entities.AssemblyInfoInputs.cache
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\obj\Debug\netstandard2.0\Common.Entities.AssemblyInfo.cs
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\obj\Debug\netstandard2.0\Common.Entities.csproj.CoreCompileInputs.cache
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\obj\Debug\netstandard2.0\Common.Entities.dll
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\obj\Debug\netstandard2.0\Common.Entities.pdb
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Entities\obj\Debug\netstandard2.0\Common.Entities.csprojAssemblyReference.cache

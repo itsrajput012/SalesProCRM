@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zq1Nt6O9G7mJr0MwWOM3eM/iX0sboTvGnKZD1thBVPA6MmzLndMRKzyYYvwkDPRM+NBvIDQ0KXBFYX5yv81jGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\we\\Downloads\\ngx-admin-dotnet-starter-master (1)\\ngx-admin-dotnet-starter-master\\backend\\src\\Common\\Common.DIContainer\\Common.DIContainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\we\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
+    "C:\\Users\\we\\.nuget\\packages\\entityframework\\6.4.0\\entityframework.6.4.0.nupkg.sha512",
+    "C:\\Users\\we\\.nuget\\packages\\microsoft.owin\\4.0.1\\microsoft.owin.4.0.1.nupkg.sha512",
+    "C:\\Users\\we\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512",
+    "C:\\Users\\we\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",
+    "C:\\Users\\we\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\we\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\we\\.nuget\\packages\\unity\\5.8.13\\unity.5.8.13.nupkg.sha512"
+  ],
+  "logs": []
+}

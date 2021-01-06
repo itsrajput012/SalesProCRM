@@ -1,0 +1,12 @@
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Utils.deps.json
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Utils.dll
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Utils.pdb
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Entities.dll
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Entities.pdb
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.csprojAssemblyReference.cache
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.AssemblyInfoInputs.cache
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.AssemblyInfo.cs
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.csproj.CoreCompileInputs.cache
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.csproj.CopyComplete
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.dll
+C:\Users\we\Downloads\ngx-admin-dotnet-starter-master (1)\ngx-admin-dotnet-starter-master\backend\src\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.pdb

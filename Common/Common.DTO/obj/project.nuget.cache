@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NeAmBKK4cgKk6fxuD1GlytEVaUcaTGC4YdICf8pPYjzAHcpCvH1e1RjOIEUxTnQlLM+U4FxEzCtMlZ/qP1kAZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\we\\Downloads\\ngx-admin-dotnet-starter-master (1)\\ngx-admin-dotnet-starter-master\\backend\\src\\Common\\Common.DTO\\Common.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\we\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\we\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
